@@ -1,0 +1,21 @@
+
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abenezer Dana</title>
+    <link href="images/logo.png.png" rel="shortcut icon" >
+    <img src="images/Abenezer.jpg.jpg" width=" 220" height="260">
+    <style> h1{font-size: 45px;} </style>
+    <h1> Abenezer Dana </h1>
+
+</head>
+
+<body>
+<body> <div id="a">Text for a <div id="b">Text for b 
+<div id="c">Text for c</div> </div> <div id="d">Text for d</div> </div> </body> div
+ { border: 1px solid black; } #a { position: relative; width: 1000px; height: 500px;} 
+ #b { position: absolute; bottom: 0px; left: 0px; right: 0px;} #c { position: absolute; right: 0px; }
+</body>
+</html>
