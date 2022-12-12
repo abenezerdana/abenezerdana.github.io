@@ -1,0 +1,9 @@
+1. 1,8,8,9,10,10
+2. The sope in globalscope is is when it is present outside on function but local variable is inside the  function.
+3. a. no
+b.yes
+c.no
+d.yes
+e.no
+4.81,25
+5.1
